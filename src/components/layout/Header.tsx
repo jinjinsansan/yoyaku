@@ -117,5 +117,3 @@ export const Header: React.FC<HeaderProps> = ({ onMenuClick, onAuthClick }) => {
     </header>
   );
 };
-
-export { Header }
